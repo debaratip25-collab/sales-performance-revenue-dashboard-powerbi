@@ -129,7 +129,6 @@ This dashboard provides a comprehensive view of sales performance, enabling stak
 
 * Dashboard.pbix
 * Dashboard.pdf
-* Sales_Raw Data.csv
 * Sales_cleaned.csv
 * Customers.csv
 * Products.csv
